@@ -30,9 +30,6 @@
     v-model="selected"
     :single-select="singleSelect"
     item-key="pts_result_id"
-    :sort-by="[]"
-    :sort-desc="[false, true]"
-    multi-sort
     show-select
     class="elevation-1"
   >
